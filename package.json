@@ -1,0 +1,17 @@
+{
+  "name": "deepstream-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepstream.io": "^0.7.0",
+    "deepstream.io-cache-redis": "^0.2.5",
+    "deepstream.io-client-js": "^0.3.6",
+    "deepstream.io-msg-redis": "^0.2.6"
+  }
+}
