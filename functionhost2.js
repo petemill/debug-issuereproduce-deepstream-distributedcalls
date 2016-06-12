@@ -1,5 +1,5 @@
 var deepstream = require( 'deepstream.io-client-js' ),
-    ds = deepstream( 'localhost:6023' ).login();
+    ds = deepstream( 'localhost:6021' ).login();
 
     //register as a provider for a rpc
     ds.rpc.provide( 'testfn2', function( data, response ){
